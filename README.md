@@ -6,8 +6,11 @@
 
 ## 📸 Demo
 
-<!-- Replace this with your screenshot or animated GIF -->
+
 ![Screenshot of the app](./image.png)
+![Screenshot of the app](./image2.png)
+![Screenshot of the app](./image3.png)
+![Screenshot of the app](./image4.png)
 
 ---
 
