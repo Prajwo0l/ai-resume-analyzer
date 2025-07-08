@@ -7,7 +7,7 @@
 ## 📸 Demo
 
 <!-- Replace this with your screenshot or animated GIF -->
-![Screenshot of the app](./screenshot.png)
+![Screenshot of the app](./image.png)
 
 ---
 
